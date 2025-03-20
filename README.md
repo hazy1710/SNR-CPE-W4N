@@ -1,3 +1,5 @@
 # SNR-CPE-W4N
-Openwrt SNR-CPE-W4N (USB and all GPIO)
+Board: SNR-CPE-W4N 
+OS: OpenWrt 22.03.7 activate USB and all port GPIO function
+CPU:ramips/mt7620
 ![gpio](GPIO.jpg)
